@@ -10,6 +10,8 @@ add `packages/a` to `packages/core`:
 $ yarn workspace core add a@1.0.0 # semver required
 ```
 
+see: https://github.com/yarnpkg/yarn/issues/4878#issuecomment-386607832
+
 ## remove module
 
 remove `packages/a` from `packages/core`:
